@@ -38,8 +38,8 @@ streamlit run app.py
 1. Загрузка файла и предпросмотр данных  
    ![img.png](img.png)
 2. Построенные графики  
-   ![img_1.png](img_1.png)![Графики](screenshots/charts.png)
+   ![img_1.png](img_1.png)
 3. Финальный отчёт  
-   ![img_2.png](img_2.png)![Отчёт](screenshots/report.png)
+   ![img_2.png](img_2.png)
 
 ---
